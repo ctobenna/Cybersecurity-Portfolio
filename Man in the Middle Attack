@@ -64,4 +64,8 @@ o	Separate sensitive systems into isolated network segments to minimize exposure
 o	Keep network devices and firmware up to date to patch vulnerabilities.
 ________________________________________
 Note
-This lab is for educational purposes only and aims to demonstrate how attackers exploit network vulnerabilities to improve awareness and strengthen defenses. It is not intended for unauthorized or malicious activities.
+This lab is for educational purposes only and aims to demonstrate how attackers exploit network vulnerabilities to improve awareness and strengthen defenses. 
+It is not intended for unauthorized or malicious activities.
+
+Check below link to down the Document:
+https://github.com/ctobenna/Cybersecurity-Portfolio/blob/main/Man-in-the-Middle%20Attack.docx
