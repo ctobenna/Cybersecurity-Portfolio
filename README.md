@@ -2,9 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Password Cracking with JohntheRipper</b>
+  - [Crack Password with JohntheRipper](https://github.com/ctobenna/Cybersecurity-Portfolio/blob/main/Password%20Cracking%20with%20John%20the%20Ripper)
 
+<h2>👨‍💻 IP Network Projects:</h2>
+
+- <b>Core Network</b>
+  - [Crack Password with JohntheRipper](https://github.com/ctobenna/Cybersecurity-Portfolio/blob/main/Password%20Cracking%20with%20John%20the%20Ripper)
 
 <h2>📺 Certification</h2>
 
