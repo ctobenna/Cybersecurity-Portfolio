@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tobenna! <br/> <a href="https://www.linkedin.com/in/ctobenna/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Tobenna! <br/> <a href="https://www.linkedin.com/in/ctobenna/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/ctobenna/">IP Network Engineer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
