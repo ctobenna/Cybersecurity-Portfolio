@@ -8,7 +8,7 @@
 <h2>👨‍💻 IP Network Projects:</h2>
 
 - <b>Core Network</b>
-  - [Crack Password with JohntheRipper](https://github.com/ctobenna/Cybersecurity-Portfolio/blob/main/Password%20Cracking%20with%20John%20the%20Ripper)
+  - [Policy Based Routing](https://github.com/ctobenna/Policy-Based-Routing/blob/main/README.md)
 
 <h2>📺 Certification</h2>
 
