@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Password Cracking with JohntheRipper</b>
+  - [Manual Way of Walking Through An Application ](https://github.com/ctobenna/Walking-An-Application-/blob/main/README.md)
   - [Crack Password with JohntheRipper](https://github.com/ctobenna/Cybersecurity-Portfolio/blob/main/Password%20Cracking%20with%20John%20the%20Ripper)
 
 <h2>👨‍💻 IP Network Projects:</h2>
