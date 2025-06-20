@@ -5,6 +5,7 @@
 - <b>Password Cracking with JohntheRipper</b>
   - [Manual Way of Walking Through An Application ](https://github.com/ctobenna/Walking-An-Application-/blob/main/README.md)
   - [Crack Password with JohntheRipper](https://github.com/ctobenna/Cybersecurity-Portfolio/blob/main/Password%20Cracking%20with%20John%20the%20Ripper)
+  - [Web Content Discovery (TryHackMe Notes)](https://github.com/ctobenna/Web-Content-Discovery-TryHackMe-Notes-/blob/main/README.md)
 
 <h2>👨‍💻 IP Network Projects:</h2>
 
